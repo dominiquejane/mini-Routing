@@ -200,7 +200,7 @@ app.config(function ($stateProvider, $urlRouterProvider) {
 ```html
 <h1> Product Page </h1>
 <div> We're going to use this div to loop over our data later on</div>
-```
+``` 
 * Test that everything is working by clicking on a few of the links to see if the templates change based on which link you clicked on. If it's not working, first check your console to see if there are any errors. Try to debug, if you debug for 5 minutes and are still stuck, ask for help.
 * 
 
